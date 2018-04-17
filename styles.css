@@ -1,0 +1,9 @@
+*{
+  background-color: rgb(115, 187, 255);
+  font-family: sans-serif
+}
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
