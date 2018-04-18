@@ -7,3 +7,9 @@ body{
   flex-direction: column;
   align-items: center
 }
+.start{
+  background-color: blue
+}
+.pause{
+  background-color: red
+}
